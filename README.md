@@ -1,4 +1,4 @@
-# MY_ALL_UI_WORK-2025-
+# MY_ALL_UI_WORK-2025
 ## Music Player UI
 ![MacBook Air - 25](https://github.com/user-attachments/assets/5b96d5f6-187b-45bc-aa73-e229ac3848cb)
 ![MacBook Air - 26](https://github.com/user-attachments/assets/e22425b2-2cc9-4953-adf3-ac4e8c35a047)
