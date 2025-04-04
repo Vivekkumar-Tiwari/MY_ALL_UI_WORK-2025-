@@ -1,4 +1,11 @@
 # MY_ALL_UI_WORK-2025
+
+## App_Design_Concept – 3 Unique Screens!
+![Frame 95364](https://github.com/user-attachments/assets/540d9e0f-ac8e-48fa-b8fc-3970cd0e00cf)
+![Frame 95365](https://github.com/user-attachments/assets/258551b3-87d0-4eaf-bcd0-faced4cfe9f5)
+![Frame 95363](https://github.com/user-attachments/assets/ebebdcf3-a0fd-4252-b77a-3c6a1f825911)
+
+
 ## Music Player UI
 ![MacBook Air - 25](https://github.com/user-attachments/assets/5b96d5f6-187b-45bc-aa73-e229ac3848cb)
 ![MacBook Air - 26](https://github.com/user-attachments/assets/e22425b2-2cc9-4953-adf3-ac4e8c35a047)
