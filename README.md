@@ -9,6 +9,10 @@ Each project focuses on clean layout, user-centric interactions, and aesthetic c
 
 Something comming hard.
 
+## Freelance work
+![Hero](https://github.com/user-attachments/assets/8788ed82-efce-477f-9ef5-dc86731db427)
+
+
 ## 🏨 Hotel Booking Mobile UI Design
 
 ![page_1](https://github.com/user-attachments/assets/875b6c2e-78ea-41f7-a2b2-06d60796e16d)
