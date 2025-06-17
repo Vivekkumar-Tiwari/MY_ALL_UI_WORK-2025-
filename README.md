@@ -9,6 +9,11 @@ Each project focuses on clean layout, user-centric interactions, and aesthetic c
 
 Something comming hard.
 
+
+## Camparing Identity card Ui design
+![Dribbble_16-06-2025](https://github.com/user-attachments/assets/42c34072-629c-46ad-8e1d-46214cbcb51d)
+
+
 ## Freelance work
 ![Hero](https://github.com/user-attachments/assets/8788ed82-efce-477f-9ef5-dc86731db427)
 
