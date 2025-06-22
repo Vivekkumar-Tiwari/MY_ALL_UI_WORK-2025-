@@ -2,6 +2,10 @@ Here’s a simplified, **techy and clean version** of your design showcase — p
 
 ---
 
+## 🐧 Linux Blog Writing Coverpage Design
+<img width="1320" alt="Linux_2" src="https://github.com/user-attachments/assets/f1c96d3a-2701-4368-ba28-aebf1796db75" />
+
+
 # 🧡 MY\_ALL\_UI\_WORK — 2025
 
 A visual gallery of my 2025 UI/UX designs. Clean. Modern. Purpose-driven.
