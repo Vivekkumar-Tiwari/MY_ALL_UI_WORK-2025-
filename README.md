@@ -1,6 +1,6 @@
 Here’s a simplified, **techy and clean version** of your design showcase — perfect for **GitHub visitors** who want to scroll quickly and visually through your UI work. This version keeps it professional and easy to follow:
 
---- 
+---
 
 # Something big is comeing
 
