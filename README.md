@@ -1,8 +1,8 @@
-Here’s a simplified, **techy and clean version** of your design showcase — perfect for **GitHub visitors** who want to scroll quickly and visually through your UI work. This version keeps it professional and easy to follow:
-
+# A sleek, scroll-friendly UI showcase — built for GitHub visitors to quickly browse my work. Clean, professional, and easy to explore.
 ---
 
 # ✨ New UI Exploration – VlogSpot
+
 
 <img width="4320" height="3072" alt="VlogSpot_01" src="https://github.com/user-attachments/assets/80083b51-7c6a-43c1-b602-1e0089c782fe" />
 <img width="4320" height="3072" alt="VlogSpot_02" src="https://github.com/user-attachments/assets/3904f275-14b4-4a87-9d65-934f6ea5fc00" />
