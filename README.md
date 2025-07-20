@@ -1,4 +1,4 @@
-# A sleek, scroll-friendly UI showcase — built for GitHub visitors to quickly browse my work. Clean, professional, and easy to explore.
+#A sleek, scroll-friendly UI showcase — built for GitHub visitors to quickly browse my work. Clean, professional, and easy to explore.
 ---
 
 # ✨ New UI Exploration – VlogSpot
