@@ -1,6 +1,12 @@
 #A sleek, scroll-friendly UI showcase — built for GitHub visitors to quickly browse my work. Clean, professional, and easy to explore.
 ---
 
+# 🫎Kitchen Dashboard Design
+
+
+<img width="3840" height="2496" alt="Kitchen_Wear" src="https://github.com/user-attachments/assets/92594fa0-cb7f-4f89-8a05-a2437e4d1067" />
+
+
 # ✨ New UI Exploration – VlogSpot
 
 <img width="4320" height="3072" alt="VlogSpot_01" src="https://github.com/user-attachments/assets/80083b51-7c6a-43c1-b602-1e0089c782fe" />
