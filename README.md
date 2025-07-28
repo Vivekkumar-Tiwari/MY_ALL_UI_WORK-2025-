@@ -1,6 +1,12 @@
 #A sleek, scroll-friendly UI showcase — built for GitHub visitors to quickly browse my work. Clean, professional, and easy to explore.
 ---
 
+# My Personalta
+
+
+<img width="1440" height="1024" alt="My_Own_Personalta" src="https://github.com/user-attachments/assets/6a9448c6-25fa-4927-9a38-a5bc5ca0ed41" />
+
+
 # 🔪 Kitchen Dashboard Design
 
 
