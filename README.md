@@ -3,9 +3,7 @@
 
 # My Personalta
 
-
 <img width="1440" height="1024" alt="My_Own_Personalta" src="https://github.com/user-attachments/assets/6a9448c6-25fa-4927-9a38-a5bc5ca0ed41" />
-
 
 # 🔪 Kitchen Dashboard Design
 
