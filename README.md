@@ -1,6 +1,3 @@
-#A sleek, scroll-friendly UI showcase - built for GitHub visitors to quickly browse my work. Clean, professional, and easy to explore.
----
-
 # Mobile Ui
 ![New_Design](https://github.com/user-attachments/assets/6c35f358-a62e-41ab-b7f8-c8706792d19d)
 
