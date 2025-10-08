@@ -1,6 +1,6 @@
 # Mycyle (Online Mobile App For Cycle Selling Platform)
 <img width="1440" height="1483" alt="Info" src="https://github.com/user-attachments/assets/2daf2a70-b3c0-458d-b832-571572bfbbcb" />
-![Uploading Colors.png…]()
+<img width="1440" height="1024" alt="Colors" src="https://github.com/user-attachments/assets/b2953b04-2e43-42b4-b384-1dd5c96acd77" />
 
 
 # Web UI Design (Old Vx New)
