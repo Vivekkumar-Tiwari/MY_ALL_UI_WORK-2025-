@@ -7,7 +7,7 @@ h
 
 # Web UI Design (Old Vx New)
 <img width="4320" height="3072" alt="Buildout" src="https://github.com/user-attachments/assets/f85222a0-b35d-4ae7-870c-e11054329757" />
-
+ 
 # Mobile Ui
 ![New_Design](https://github.com/user-attachments/assets/6c35f358-a62e-41ab-b7f8-c8706792d19d)
 
