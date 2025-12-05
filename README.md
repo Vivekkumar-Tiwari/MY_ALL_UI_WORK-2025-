@@ -1,9 +1,12 @@
+# Fitness App UI Design – Modern, Clean & Goal-Focused
+<img width="1280" height="720" alt="HOME" src="https://github.com/user-attachments/assets/cc29c973-5318-4afe-9dc9-eac9e7d0a78a" />
+
 # UI widget App Design
 <img width="1620" height="2025" alt="UI Widgit App Design" src="https://github.com/user-attachments/assets/eb13c166-58cb-485a-90ff-5c62174aa1a1" />
 
 # Skyway Transport Logo Designs 
 <img width="2408" height="1108" alt="Website Header Logo Skyway Transport" src="https://github.com/user-attachments/assets/da421b90-062c-4e01-afb6-b4bfc5c0614f" />
-h
+
 # Mycyle (Online Mobile App For Cycle Selling Platform)
 <img width="1440" height="1483" alt="Info" src="https://github.com/user-attachments/assets/2daf2a70-b3c0-458d-b832-571572bfbbcb" />
 <img width="1440" height="1024" alt="Colors" src="https://github.com/user-attachments/assets/b2953b04-2e43-42b4-b384-1dd5c96acd77" />
