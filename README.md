@@ -1,7 +1,6 @@
 # Mobile UI Design Concepts.
 <img width="1512" height="982" alt="Tooth_Paste" src="https://github.com/user-attachments/assets/5e879514-9348-4c3b-99fd-64758481b872" />
 
-
 # Fitness App UI Design – Modern, Clean & Goal-Focused.
 <img width="1280" height="720" alt="HOME" src="https://github.com/user-attachments/assets/cc29c973-5318-4afe-9dc9-eac9e7d0a78a" />
 
