@@ -31,7 +31,6 @@ Going to code now this design (UI)...
 
 <img width="4320" height="3072" alt="Desktop - 8" src="https://github.com/user-attachments/assets/87e42a35-fc6f-418e-86ea-470ab8576540" />
 
-
 # My Personalta
 
 <img width="1440" height="1024" alt="My_Own_Personalta" src="https://github.com/user-attachments/assets/6a9448c6-25fa-4927-9a38-a5bc5ca0ed41" />
