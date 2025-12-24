@@ -3,7 +3,7 @@
 
 # Fitness App UI Design – Modern, Clean & Goal-Focused
 <img width="1280" height="720" alt="HOME" src="https://github.com/user-attachments/assets/cc29c973-5318-4afe-9dc9-eac9e7d0a78a" />
-
+Finjik
 Going to code now this design (UI)
 
 # UI widget App Design
